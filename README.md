@@ -83,8 +83,8 @@ With the rapid spread of misinformation online, identifying fake news has become
 
 ## 📸 Sample Output
 
-
-
+![Confusion Matrix](Screenshot 2026-04-01 014214.png)
+![Accuracy Graph](Screenshot 2026-04-01 014208.png
 
 
 ## 📂 Project Structure
@@ -110,5 +110,3 @@ Khushi Kushwaha
 GitHub: https://github.com/khushhub
 
 ---
-
-## 📂 Project Structure
