@@ -85,17 +85,6 @@ With the rapid spread of misinformation online, identifying fake news has become
 <img src="Screenshot 2026-04-01 014214.png" width="45%"/> 
 <img src="Screenshot 2026-04-01 014208.png" width="45%"/>
 
-## 📂 Project Structure
-
-Fake-News-Detection/
-│── data/
-│── notebooks/
-│── models/
-│── results/
-│── README.md
-
-
-
 ---
 
 ## 💡 Conclusion
