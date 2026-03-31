@@ -85,6 +85,13 @@ With the rapid spread of misinformation online, identifying fake news has become
 <img src="Screenshot 2026-04-01 014214.png" width="45%"/> 
 <img src="Screenshot 2026-04-01 014208.png" width="45%"/>
 
+## 📊 Results Interpretation
+
+- Linear SVM performs slightly better in terms of classification balance
+- Logistic Regression shows higher false positives compared to SVM
+- The model struggles more with identifying fake news correctly
+
+This suggests that SVM generalizes better on this dataset.
 ---
 
 ## 💡 Conclusion
